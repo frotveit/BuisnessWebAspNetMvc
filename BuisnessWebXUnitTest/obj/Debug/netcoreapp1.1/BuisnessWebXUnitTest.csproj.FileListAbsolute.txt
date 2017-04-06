@@ -1,0 +1,14 @@
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebXUnitTest\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebXUnitTest\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebXUnitTest\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebXUnitTest\bin\Debug\netcoreapp1.1\BuisnessWebXUnitTest.deps.json
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebXUnitTest\bin\Debug\netcoreapp1.1\BuisnessWebXUnitTest.runtimeconfig.json
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebXUnitTest\bin\Debug\netcoreapp1.1\BuisnessWebXUnitTest.runtimeconfig.dev.json
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebXUnitTest\bin\Debug\netcoreapp1.1\BuisnessWebXUnitTest.dll
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebXUnitTest\bin\Debug\netcoreapp1.1\BuisnessWebXUnitTest.pdb
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebXUnitTest\obj\Debug\netcoreapp1.1\BuisnessWebXUnitTest.csprojResolveAssemblyReference.cache
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebXUnitTest\obj\Debug\netcoreapp1.1\BuisnessWebXUnitTest.AssemblyInfo.cs
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebXUnitTest\obj\Debug\netcoreapp1.1\BuisnessWebXUnitTest.dll
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebXUnitTest\obj\Debug\netcoreapp1.1\BuisnessWebXUnitTest.pdb
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebXUnitTest\bin\Debug\netcoreapp1.1\BuisnessWeb.dll
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebXUnitTest\bin\Debug\netcoreapp1.1\BuisnessWeb.pdb

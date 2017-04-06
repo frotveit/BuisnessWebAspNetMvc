@@ -1,0 +1,39 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    ViewBag.Title = "Home";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+
+
+<div class="row">
+    <div class="col-md-3">
+        <h2>Application uses</h2>
+        <ul>
+            <li>Sample pages using ASP.NET Core MVC</li>
+            <li>Employee registration and employee shop</li>            
+        </ul>
+    </div>
+    <div class="col-md-3">
+        <h2>Employee</h2>
+        <ul>
+            <li><a href="\Employee\Employees">Show employees</a></li>
+            <li><a href="\Employee\SelectEmployee">View employee</a></li>
+            <li><a href="\Employee\EnterEmployee">Add employee</a></li>
+            <li><a href="\HourRegistration\EnterHourRegistration">Add hours</a></li>
+        </ul>
+    </div>
+    <div class="col-md-3">
+        <h2>Shop</h2>
+        <ul>
+            <li><a href="\ShopItem\Overview">Shop Overview</a></li>
+            <li><a href="\ShopItem\List">List of items</a></li>
+            <li><a href="\">.</a></li>            
+        </ul>
+    </div>    
+</div>
+
+@section footer {
+    A footer message
+}

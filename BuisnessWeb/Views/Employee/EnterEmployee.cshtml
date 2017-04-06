@@ -1,0 +1,75 @@
+﻿@model Employee
+
+<form asp-action="EnterEmployee" method="post" class="form-horizontal" role="form" asp-antiforgery="true">
+    <h4>Fill in employee details.</h4>
+
+    <div class="form-group">
+        <label asp-for="Name" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Phone" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Phone" class="form-control" />
+        </div>
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="Email" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Email" class="form-control" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Address" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Address" class="form-control" />
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        @Html.LabelFor(m => m.SocialSecurityNumber)
+        @Html.TextBoxFor(m => m.SocialSecurityNumber)
+        @Html.ValidationMessageFor(m => m.SocialSecurityNumber)
+    </div>
+    <div>
+        <h2>Payment information</h2>
+
+        <div>
+            <label asp-for="PaymentInformation.PaymentModel"></label>
+            <select asp-for="PaymentInformation.PaymentModel" asp-items="@Html.GetEnumSelectList<PaymentModel>()"></select>
+            <span asp-validation-for="PaymentInformation.PaymentModel"></span>            
+        </div>
+
+        <div>
+            @Html.LabelFor(m => m.PaymentInformation.PaymentFrequency)
+            @Html.DropDownListFor(m => m.PaymentInformation.PaymentFrequency, Html.GetEnumSelectList<PaymentFrequency>())
+            @Html.ValidationMessageFor(m => m.PaymentInformation.PaymentFrequency)
+        </div>
+
+        <div class="form-group">
+            <label asp-for="PaymentInformation.BankAccount" class="col-md-2 control-label"></label>
+            <div class="col-md-5">
+                <input asp-for="PaymentInformation.BankAccount" class="form-control" />
+            </div>
+        </div>
+
+    </div>
+    
+    
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-5">
+            <input type="submit" class="form-control" value="Submit employee" />
+        </div>
+    </div>
+
+    <div asp-validation-summary="All" class="text-danger">
+
+    </div>
+</form>

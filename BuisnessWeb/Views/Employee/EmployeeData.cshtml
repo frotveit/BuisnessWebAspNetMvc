@@ -1,0 +1,16 @@
+@model Employee
+
+<div>
+
+    <h2>@Model.Name</h2>
+    <h3>Employee number: @Model.EmployeeId</h3>
+    <h3>Phone: @Model.Phone</h3>
+    <h3>E-mail: @Model.Email</h3>
+    <h3>Address: @Model.Address</h3>
+    <h3>SSN: @Model.SocialSecurityNumber</h3>
+    <h3>Payment Information</h3>
+    <h3>Payment model: @Model.PaymentInformation.PaymentModel</h3>
+    <h3>Frequency: @Model.PaymentInformation.PaymentFrequency</h3>
+    <h3>Bank account: @Model.PaymentInformation.BankAccount</h3>
+
+</div>

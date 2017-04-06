@@ -1,0 +1,8 @@
+<h1>@ViewBag.SaveCompleteMessage </h1>
+<h2>Saved id: @ViewBag.SavedEmployeeId</h2>
+
+@using BuisnessWeb.Controllers
+@model Employee
+@Html.Partial("EmployeeData", @Model)
+
+<div>@Html.ActionLink("Home", nameof(HomeController.Index), "Home")</div> <!-- nameof(HomeController)  do not redirect to Home -->

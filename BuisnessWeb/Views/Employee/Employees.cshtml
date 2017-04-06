@@ -1,0 +1,13 @@
+﻿@model EmployeesViewModel
+
+
+    <h3>@ViewBag.ContentMessage</h3>
+    <h3>@Model.CollectionTitle</h3>
+    @foreach(var employee in Model.Employees)
+    {
+        @Html.Partial("EmployeeSummary", employee)
+    }
+
+
+
+

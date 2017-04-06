@@ -1,0 +1,90 @@
+﻿@model Employee
+
+<form asp-action="EditEmployee" method="post" class="form-horizontal"  asp-antiforgery="true"> <!-- role="form" -->
+    <h4>Fill in employee details.</h4>
+
+    <div class="form-group">
+        <label asp-for="EmployeeId" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="EmployeeId" class="form-control" readonly />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Name" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Phone" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Phone" class="form-control" />
+            <span asp-validation-for="Phone" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Email" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Email" class="form-control" />
+            <span asp-validation-for="Email" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="Address" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="Address" class="form-control" />
+            <span asp-validation-for="Address" class="text-danger"></span>
+        </div>
+    </div>
+    
+    <div class="form-group">
+        <label asp-for="SocialSecurityNumber" class="col-md-2 control-label"></label>
+        <div class="col-md-5">
+            <input asp-for="SocialSecurityNumber" class="form-control" />
+            <span asp-validation-for="SocialSecurityNumber" class="text-danger"></span>
+        </div>
+    </div>
+
+    <div>
+        <h2>Payment information</h2>
+
+        <div class="form-group">
+            <label asp-for="PaymentInformation.PaymentModel" class="col-md-2 control-label"></label>
+            <div class="col-md-5">
+                <select asp-for="PaymentInformation.PaymentModel" asp-items="@Html.GetEnumSelectList<PaymentModel>()" class="form-control"></select>
+                <span asp-validation-for="PaymentInformation.PaymentModel"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="PaymentInformation.PaymentFrequency" class="col-md-2 control-label"></label>
+            <div class="col-md-5">
+                <select asp-for="PaymentInformation.PaymentFrequency" asp-items="@Html.GetEnumSelectList<PaymentFrequency>()" class="form-control"></select>
+                <span asp-validation-for="PaymentInformation.PaymentFrequency"></span>
+            </div>
+        </div>
+
+        <div class="form-group">
+            <label asp-for="PaymentInformation.BankAccount" class="col-md-2 control-label"></label>
+            <div class="col-md-5">
+                <input asp-for="PaymentInformation.BankAccount" class="form-control" />
+                <span asp-validation-for="PaymentInformation.BankAccount" class="text-danger"></span>
+            </div>
+        </div>
+
+    </div>
+
+
+    <div class="form-group">
+        <div class="col-md-offset-2 col-md-5">
+            <input type="submit" class="form-control" value="Update employee" />
+        </div>
+    </div>
+
+    <div asp-validation-summary="All" class="text-danger"></div>
+</form>

@@ -1,0 +1,9 @@
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.deps.json
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.runtimeconfig.json
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.runtimeconfig.dev.json
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.dll
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.pdb
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.csprojResolveAssemblyReference.cache
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.AssemblyInfo.cs
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.dll
+D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.pdb

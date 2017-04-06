@@ -1,0 +1,4 @@
+﻿Package Manager Console:
+	Add-Migration InitialMigration
+	Update-Database
+	Remove-Migration  // Delete the database first

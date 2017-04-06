@@ -1,0 +1,11 @@
+﻿@model Employee
+
+<div>    
+    <h2>@Model.Name</h2>
+    <a asp-action="Employee" asp-route-employeeId="@Model.EmployeeId">View</a> 
+    <a asp-action="EditEmployee" asp-route-employeeId="@Model.EmployeeId">Edit</a>
+    <h3>Employee number: @Model.EmployeeId</h3> 
+    <h3>Phone: @Model.Phone</h3>
+    <h3>E-mail: @Model.Email</h3>
+    
+</div>
