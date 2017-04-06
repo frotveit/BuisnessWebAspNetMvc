@@ -7,3 +7,12 @@ D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb
 D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.AssemblyInfo.cs
 D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.dll
 D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.pdb
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.deps.json
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.runtimeconfig.json
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.runtimeconfig.dev.json
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.dll
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.pdb
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.AssemblyInfo.cs
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.dll
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.pdb
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.csprojResolveAssemblyReference.cache

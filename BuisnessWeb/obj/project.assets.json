@@ -11057,10 +11057,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Get Sky\\DEV\\BuisnessWeb\\BuisnessWeb\\BuisnessWeb.csproj",
+      "projectUniqueName": "D:\\Users\\GitHub\\BuisnessWebAspNetMvc\\BuisnessWeb\\BuisnessWeb.csproj",
       "projectName": "BuisnessWeb",
-      "projectPath": "D:\\Users\\Get Sky\\DEV\\BuisnessWeb\\BuisnessWeb\\BuisnessWeb.csproj",
-      "outputPath": "D:\\Users\\Get Sky\\DEV\\BuisnessWeb\\BuisnessWeb\\obj\\",
+      "projectPath": "D:\\Users\\GitHub\\BuisnessWebAspNetMvc\\BuisnessWeb\\BuisnessWeb.csproj",
+      "outputPath": "D:\\Users\\GitHub\\BuisnessWebAspNetMvc\\BuisnessWeb\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

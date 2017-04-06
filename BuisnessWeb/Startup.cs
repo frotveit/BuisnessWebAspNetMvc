@@ -94,7 +94,7 @@ namespace BuisnessWeb
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
 
-            app.Run(context => context.Response.WriteAsync("Not found")); // if map routing fails
+            //app.Run(context => context.Response.WriteAsync("Not found")); // if map routing fails
 
             DbInitializer.Seed(app);
         }

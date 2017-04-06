@@ -12,3 +12,17 @@ D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebTest\obj\Debug\netcoreapp1.1\Buisnes
 D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebTest\obj\Debug\netcoreapp1.1\BuisnessWebTest.AssemblyInfo.cs
 D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebTest\obj\Debug\netcoreapp1.1\BuisnessWebTest.dll
 D:\Users\Get Sky\DEV\BuisnessWeb\BuisnessWebTest\obj\Debug\netcoreapp1.1\BuisnessWebTest.pdb
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWebTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWebTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWebTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWebTest\bin\Debug\netcoreapp1.1\BuisnessWebTest.deps.json
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWebTest\bin\Debug\netcoreapp1.1\BuisnessWebTest.runtimeconfig.json
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWebTest\bin\Debug\netcoreapp1.1\BuisnessWebTest.runtimeconfig.dev.json
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWebTest\bin\Debug\netcoreapp1.1\BuisnessWebTest.dll
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWebTest\bin\Debug\netcoreapp1.1\BuisnessWebTest.pdb
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWebTest\bin\Debug\netcoreapp1.1\BuisnessWeb.dll
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWebTest\bin\Debug\netcoreapp1.1\BuisnessWeb.pdb
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWebTest\obj\Debug\netcoreapp1.1\BuisnessWebTest.csprojResolveAssemblyReference.cache
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWebTest\obj\Debug\netcoreapp1.1\BuisnessWebTest.AssemblyInfo.cs
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWebTest\obj\Debug\netcoreapp1.1\BuisnessWebTest.dll
+D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWebTest\obj\Debug\netcoreapp1.1\BuisnessWebTest.pdb

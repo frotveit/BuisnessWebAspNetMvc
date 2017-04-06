@@ -12085,10 +12085,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\Get Sky\\DEV\\BuisnessWeb\\BuisnessWebTest\\BuisnessWebTest.csproj",
+      "projectUniqueName": "D:\\Users\\GitHub\\BuisnessWebAspNetMvc\\BuisnessWebTest\\BuisnessWebTest.csproj",
       "projectName": "BuisnessWebTest",
-      "projectPath": "D:\\Users\\Get Sky\\DEV\\BuisnessWeb\\BuisnessWebTest\\BuisnessWebTest.csproj",
-      "outputPath": "D:\\Users\\Get Sky\\DEV\\BuisnessWeb\\BuisnessWebTest\\obj\\",
+      "projectPath": "D:\\Users\\GitHub\\BuisnessWebAspNetMvc\\BuisnessWebTest\\BuisnessWebTest.csproj",
+      "outputPath": "D:\\Users\\GitHub\\BuisnessWebAspNetMvc\\BuisnessWebTest\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -12096,8 +12096,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "D:\\Users\\Get Sky\\DEV\\BuisnessWeb\\BuisnessWeb\\BuisnessWeb.csproj": {
-              "projectPath": "D:\\Users\\Get Sky\\DEV\\BuisnessWeb\\BuisnessWeb\\BuisnessWeb.csproj"
+            "D:\\Users\\GitHub\\BuisnessWebAspNetMvc\\BuisnessWeb\\BuisnessWeb.csproj": {
+              "projectPath": "D:\\Users\\GitHub\\BuisnessWebAspNetMvc\\BuisnessWeb\\BuisnessWeb.csproj"
             }
           }
         }

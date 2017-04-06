@@ -21,15 +21,15 @@ namespace BuisnessWeb.Controllers
             _signInManager = signInManager;
         }
 
-        [AllowAnonymous]
-        [HttpGet]
-        public IActionResult Login(string returnUrl)
-        {
-            return View(new LoginViewModel
-            {
-                ReturnUrl = returnUrl
-            });
-        }
+        //[AllowAnonymous]
+        //[HttpGet]
+        //public IActionResult Login(string returnUrl)
+        //{
+        //    return View(new LoginViewModel
+        //    {
+        //        ReturnUrl = returnUrl
+        //    });
+        //}
 
         [AllowAnonymous]
         [HttpGet]
