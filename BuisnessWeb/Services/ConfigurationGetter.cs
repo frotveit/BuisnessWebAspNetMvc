@@ -27,5 +27,10 @@ namespace BuisnessWeb.Services
             }
             return _greeting;
         }
+
+        //public void Get()
+        //{
+            
+        //}
     }
 }

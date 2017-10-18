@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.9
+VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuisnessWeb", "BuisnessWeb\BuisnessWeb.csproj", "{387D4D3D-A854-42FF-919D-26A282C57500}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuisnessWeb", "BuisnessWeb\BuisnessWeb.csproj", "{387D4D3D-A854-42FF-919D-26A282C57500}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BDFAF5B-FAC5-4691-83A7-F48F3243B6A0}
 	EndGlobalSection
 EndGlobal

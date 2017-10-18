@@ -16,3 +16,14 @@ D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\obj\Debug\netcoreapp1.1\Buisnes
 D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.dll
 D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.pdb
 D:\Users\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.csprojResolveAssemblyReference.cache
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.deps.json
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.runtimeconfig.json
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.runtimeconfig.dev.json
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.dll
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\bin\Debug\netcoreapp1.1\BuisnessWeb.pdb
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.csprojResolveAssemblyReference.cache
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.csproj.CoreCompileInputs.cache
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.AssemblyInfoInputs.cache
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.AssemblyInfo.cs
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.dll
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWeb\obj\Debug\netcoreapp1.1\BuisnessWeb.pdb
