@@ -47,5 +47,8 @@ Temporary Items
 .apdisk
 
 packages
-/BuisnessWeb/bin/Debug/netcoreapp2.0
-/BuisnessWeb/obj/Debug/netcoreapp2.0
+/BuisnessWeb/bin
+/BuisnessWeb/obj
+/BuisnessWeb/node_modules
+
+
