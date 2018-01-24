@@ -1,0 +1,16 @@
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\bin\Debug\netcoreapp2.0\UnitTestBusinessWeb.deps.json
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\bin\Debug\netcoreapp2.0\UnitTestBusinessWeb.runtimeconfig.json
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\bin\Debug\netcoreapp2.0\UnitTestBusinessWeb.runtimeconfig.dev.json
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\bin\Debug\netcoreapp2.0\UnitTestBusinessWeb.dll
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\bin\Debug\netcoreapp2.0\UnitTestBusinessWeb.pdb
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\bin\Debug\netcoreapp2.0\BuisnessWeb.dll
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\bin\Debug\netcoreapp2.0\BuisnessWeb.pdb
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\obj\Debug\netcoreapp2.0\UnitTestBusinessWeb.csprojResolveAssemblyReference.cache
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\obj\Debug\netcoreapp2.0\UnitTestBusinessWeb.csproj.CoreCompileInputs.cache
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\obj\Debug\netcoreapp2.0\UnitTestBusinessWeb.AssemblyInfoInputs.cache
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\obj\Debug\netcoreapp2.0\UnitTestBusinessWeb.AssemblyInfo.cs
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\obj\Debug\netcoreapp2.0\UnitTestBusinessWeb.dll
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\UnitTestBusinessWeb\obj\Debug\netcoreapp2.0\UnitTestBusinessWeb.pdb

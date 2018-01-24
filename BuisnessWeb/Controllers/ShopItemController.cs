@@ -1,7 +1,6 @@
-
-using BuisnessWeb.Services;
-using BuisnessWeb.Models;
 using BuisnessWeb.ViewModels;
+using BuisnessWebCore.Models;
+using BuisnessWebCore.Repositories;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;

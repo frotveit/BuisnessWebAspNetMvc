@@ -1,8 +1,8 @@
 
-using Microsoft.AspNetCore.Mvc;
-using BuisnessWeb.Services;
-using BuisnessWeb.Models;
+using BuisnessWebCore.Models;
+using BuisnessWebCore.Repositories;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 
 namespace BuisnessWeb.Controllers
 {

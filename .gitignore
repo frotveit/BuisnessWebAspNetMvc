@@ -50,5 +50,5 @@ packages
 /BuisnessWeb/bin
 /BuisnessWeb/obj
 /BuisnessWeb/node_modules
-
+/.vs
 

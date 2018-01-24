@@ -1,0 +1,11 @@
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebStore\bin\Debug\netcoreapp2.0\BuisnessWebCore.dll
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebStore\bin\Debug\netcoreapp2.0\BuisnessWebCore.pdb
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebStore\obj\Debug\netcoreapp2.0\BuisnessWebStore.csproj.CoreCompileInputs.cache
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebStore\obj\Debug\netcoreapp2.0\BuisnessWebStore.AssemblyInfoInputs.cache
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebStore\obj\Debug\netcoreapp2.0\BuisnessWebStore.AssemblyInfo.cs
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebStore\bin\Debug\netcoreapp2.0\BuisnessWebStore.deps.json
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebStore\bin\Debug\netcoreapp2.0\BuisnessWebStore.dll
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebStore\bin\Debug\netcoreapp2.0\BuisnessWebStore.pdb
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebStore\obj\Debug\netcoreapp2.0\BuisnessWebStore.csprojResolveAssemblyReference.cache
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebStore\obj\Debug\netcoreapp2.0\BuisnessWebStore.dll
+C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebStore\obj\Debug\netcoreapp2.0\BuisnessWebStore.pdb

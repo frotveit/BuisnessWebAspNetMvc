@@ -1,7 +1,6 @@
 
-using BuisnessWeb.Services;
-using BuisnessWeb.Models;
-using Microsoft.AspNetCore.Authorization;
+using BuisnessWebCore.Models;
+using BuisnessWebCore.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BuisnessWeb.Controllers
@@ -9,9 +8,9 @@ namespace BuisnessWeb.Controllers
     public class ShopOrderController : Controller
     {
         private readonly IShopOrderRepository _orderRepository;
-        private readonly ShoppingCart _shoppingCart;
+        private readonly IShoppingCart _shoppingCart;
 
-        public ShopOrderController(IShopOrderRepository orderRepository, ShoppingCart shoppingCart)
+        public ShopOrderController(IShopOrderRepository orderRepository, IShoppingCart shoppingCart)
         {
             _orderRepository = orderRepository;
             _shoppingCart = shoppingCart;

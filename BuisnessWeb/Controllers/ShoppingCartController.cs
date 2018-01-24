@@ -1,6 +1,6 @@
 
-using BuisnessWeb.Services;
 using BuisnessWeb.ViewModels;
+using BuisnessWebCore.Repositories;
 using Microsoft.AspNetCore.Mvc;
 using System.Linq;
 
@@ -9,9 +9,9 @@ namespace BuisnessWeb.Controllers
     public class ShoppingCartController : Controller
     {
         private readonly IShopItemRepository _itemRepository;
-        private readonly ShoppingCart _shoppingCart;
+        private readonly IShoppingCart _shoppingCart;
 
-        public ShoppingCartController(IShopItemRepository itemRepository, ShoppingCart shoppingCart)
+        public ShoppingCartController(IShopItemRepository itemRepository, IShoppingCart shoppingCart)
         {
             _itemRepository = itemRepository;
             _shoppingCart = shoppingCart;

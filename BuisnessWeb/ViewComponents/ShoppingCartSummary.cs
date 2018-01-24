@@ -1,5 +1,5 @@
-﻿using BuisnessWeb.Services;
-using BuisnessWeb.ViewModels;
+﻿using BuisnessWeb.ViewModels;
+using BuisnessWebCore.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
 
@@ -7,9 +7,9 @@ namespace BuisnessWeb.ViewComponents
 {
     public class ShoppingCartSummary : ViewComponent
     {
-        private readonly ShoppingCart _shoppingCart;
+        private readonly IShoppingCart _shoppingCart;
 
-        public ShoppingCartSummary(ShoppingCart shoppingCart)
+        public ShoppingCartSummary(IShoppingCart shoppingCart)
         {
             _shoppingCart = shoppingCart;
         }

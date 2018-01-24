@@ -1,14 +1,15 @@
 ﻿
+using BuisnessWebCore.Repositories;
+using BuisnessWebStore;
+using BuisnessWebStore.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
-using BuisnessWeb.Services;
-using Microsoft.AspNetCore.Http;
-
 
 namespace BuisnessWeb
 {
@@ -49,8 +50,10 @@ namespace BuisnessWeb
         private static void AddApplicationServices(IServiceCollection services)
         {
             services.AddSingleton<IConfigurationGetter, ConfigurationGetter>();
-            services.AddScoped<ShoppingCart>(sp => ShoppingCart.GetCart(sp));
+            services.AddScoped<IShoppingCart>(sp => ShoppingCart.GetCart(sp));
 
+            //services.AddTransient<IShoppingCart, ShoppingCart>();
+            services.AddTransient<IAppDbContext, AppDbContext>();
             services.AddTransient<IEmployeeRepository, EmployeeRepository>();
             services.AddTransient<IHourRegistrationRepository, HourRegistrationRepository>();
             services.AddTransient<IShopItemRepository, ShopItemRepository>();
@@ -78,7 +81,7 @@ namespace BuisnessWeb
             app.UseFileServer();  // == app.UseDefaultFiles(); +  app.UseStaticFiles();
             app.UseStatusCodePages();
             app.UseSession();
-            app.UseIdentity();
+            app.UseAuthentication();
 
             app.UseWelcomePage("/Welcome");
             

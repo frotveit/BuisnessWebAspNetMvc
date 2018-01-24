@@ -1,6 +1,6 @@
 ﻿
 
-using BuisnessWeb.Models;
+using BuisnessWebCore.Models;
 using System.Collections.Generic;
 
 namespace BuisnessWeb.ViewModels

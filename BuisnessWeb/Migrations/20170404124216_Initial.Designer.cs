@@ -1,10 +1,9 @@
-﻿using System;
+﻿using BuisnessWebStore;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
-using BuisnessWeb.Services;
-using BuisnessWeb.Models;
+using System;
 
 namespace BuisnessWeb.Migrations
 {

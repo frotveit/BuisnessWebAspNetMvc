@@ -1,6 +1,6 @@
-﻿using BuisnessWeb.Models;
-using BuisnessWeb.Services;
-using BuisnessWeb.ViewModels;
+﻿using BuisnessWeb.ViewModels;
+using BuisnessWebCore.Models;
+using BuisnessWebCore.Repositories;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
@@ -31,7 +31,6 @@ namespace BuisnessWeb.Controllers
             }
             return RedirectToAction("Employee", "Employee", new { employeeId = employeeIdentificator.EmployeeId });
         }
-
         
         public IActionResult Employee(int employeeId)
         {
