@@ -1,0 +1,9 @@
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\bin\Debug\netcoreapp2.2\BuisnessWebCore.deps.json
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\bin\Debug\netcoreapp2.2\BuisnessWebCore.dll
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\bin\Debug\netcoreapp2.2\BuisnessWebCore.pdb
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\netcoreapp2.2\BuisnessWebCore.csprojAssemblyReference.cache
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\netcoreapp2.2\BuisnessWebCore.csproj.CoreCompileInputs.cache
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\netcoreapp2.2\BuisnessWebCore.AssemblyInfoInputs.cache
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\netcoreapp2.2\BuisnessWebCore.AssemblyInfo.cs
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\netcoreapp2.2\BuisnessWebCore.dll
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\netcoreapp2.2\BuisnessWebCore.pdb

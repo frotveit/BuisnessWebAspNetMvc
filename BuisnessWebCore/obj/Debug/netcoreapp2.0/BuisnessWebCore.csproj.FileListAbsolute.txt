@@ -7,3 +7,12 @@ C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\n
 C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebCore\bin\Debug\netcoreapp2.0\BuisnessWebCore.pdb
 C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\netcoreapp2.0\BuisnessWebCore.dll
 C:\Users\frotv\Documents\GitHub\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\netcoreapp2.0\BuisnessWebCore.pdb
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\bin\Debug\netcoreapp2.0\BuisnessWebCore.deps.json
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\bin\Debug\netcoreapp2.0\BuisnessWebCore.dll
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\bin\Debug\netcoreapp2.0\BuisnessWebCore.pdb
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\netcoreapp2.0\BuisnessWebCore.csprojAssemblyReference.cache
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\netcoreapp2.0\BuisnessWebCore.csproj.CoreCompileInputs.cache
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\netcoreapp2.0\BuisnessWebCore.AssemblyInfoInputs.cache
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\netcoreapp2.0\BuisnessWebCore.AssemblyInfo.cs
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\netcoreapp2.0\BuisnessWebCore.dll
+C:\proj\BuisnessWebAspNetMvc\BuisnessWebCore\obj\Debug\netcoreapp2.0\BuisnessWebCore.pdb

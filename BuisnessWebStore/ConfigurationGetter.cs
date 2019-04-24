@@ -16,7 +16,7 @@ namespace BuisnessWebStore
             _configuration = configuration;
         }
 
-        private IConfiguration _configuration;
+        private readonly IConfiguration _configuration;
         private string _greeting;
 
         public string GetGreeting()
